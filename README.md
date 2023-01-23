@@ -5,7 +5,7 @@ Example:
 ```
 REPOSITORY      TAG                       IMAGE ID       CREATED          SIZE
 payload_image   latest                    fa148686b0d3   36 minutes ago   707MB
-nvidia/cuda     11.4.0-base-ubuntu18.04   fa91fba70f7f   5 weeks ago      114MB
+nvidia/cuda     11.4.0-base-ubuntu18.04   fa91fba70f7f   5 weeks ago      114MB ```
 
 * Remove an Image: ``docker rmi [image_name OR image_id]`` \
 Example: ``docker rmi fa14`` ``docker rmi fa14 --force``
