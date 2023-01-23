@@ -1,6 +1,7 @@
 ### Short list of Docker commands:
 
 List Images: ``sudo docker images``
+
 Example:
 ```
 REPOSITORY      TAG                       IMAGE ID       CREATED          SIZE
